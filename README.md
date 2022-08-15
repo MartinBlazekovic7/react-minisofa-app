@@ -1,3 +1,7 @@
+The site is available here: https://minisofa-project.vercel.app
+(If there happens to be a 500 internal server error, that means that the data from the API has been blocked for us and will automatically be fixed when some time passes)
+
+
 General story representing user flow: The user comes to the application and sees the list of categories fetched. Users can then navigate to the category page of the desired category. On the category page, users can see events available for the selected category. Users can refresh the browser and the same category page should be displayed (category page has a separate route describing specific category). From the category page, users can navigate to the specific event details page. On the event, details page the user can find detailed data associated with the event.
 
 User stories are sentences from the user's perspective. They can be pictured as user's requirements because they don't specify the technical side of the project. The technical side is left to the developers (this includes design too).
